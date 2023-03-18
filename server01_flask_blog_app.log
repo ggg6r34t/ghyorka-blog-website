@@ -500,3 +500,44 @@
 2023-02-24 20:02:29,396 INFO werkzeug Thread-25 (process_request_thread) : 127.0.0.1 - - [24/Feb/2023 20:02:29] "[36mGET /static/js/clean-blog.min.js HTTP/1.1[0m" 304 -
 2023-02-24 20:02:29,455 INFO werkzeug Thread-26 (process_request_thread) : 127.0.0.1 - - [24/Feb/2023 20:02:29] "[36mGET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
 2023-02-24 20:02:29,456 INFO werkzeug Thread-27 (process_request_thread) : 127.0.0.1 - - [24/Feb/2023 20:02:29] "[36mGET /static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1[0m" 304 -
+2023-03-18 21:58:36,206 INFO werkzeug MainThread : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-18 21:58:36,207 INFO werkzeug MainThread : [33mPress CTRL+C to quit[0m
+2023-03-18 21:58:36,209 INFO werkzeug MainThread :  * Restarting with stat
+2023-03-18 21:58:37,366 WARNING werkzeug MainThread :  * Debugger is active!
+2023-03-18 21:58:37,372 INFO werkzeug MainThread :  * Debugger PIN: 391-643-539
+2023-03-18 21:59:05,753 INFO main Thread-2 (process_request_thread) : Info level log
+2023-03-18 21:59:05,753 WARNING main Thread-2 (process_request_thread) : Warning level log
+2023-03-18 21:59:05,844 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:05] "GET / HTTP/1.1" 200 -
+2023-03-18 21:59:06,601 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:06] "GET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 -
+2023-03-18 21:59:06,711 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:06] "GET /static/css/clean-blog.min.css HTTP/1.1" 200 -
+2023-03-18 21:59:06,724 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:06] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2023-03-18 21:59:06,734 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:06] "GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 -
+2023-03-18 21:59:06,735 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:06] "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 200 -
+2023-03-18 21:59:06,740 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:06] "GET /static/js/clean-blog.min.js HTTP/1.1" 200 -
+2023-03-18 21:59:06,782 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:06] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2023-03-18 21:59:06,788 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:06] "GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 -
+2023-03-18 21:59:06,795 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:06] "GET /static/js/clean-blog.min.js HTTP/1.1" 200 -
+2023-03-18 21:59:07,316 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:07] "GET /static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 -
+2023-03-18 21:59:07,317 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:07] "GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2023-03-18 21:59:07,925 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-03-18 21:59:15,118 INFO werkzeug Thread-15 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "GET /login HTTP/1.1" 200 -
+2023-03-18 21:59:15,388 INFO werkzeug Thread-16 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-03-18 21:59:15,391 INFO werkzeug Thread-17 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "[36mGET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 304 -
+2023-03-18 21:59:15,396 INFO werkzeug Thread-18 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "[36mGET /static/css/clean-blog.min.css HTTP/1.1[0m" 304 -
+2023-03-18 21:59:15,397 INFO werkzeug Thread-19 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:15,401 INFO werkzeug Thread-20 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:15,403 INFO werkzeug Thread-21 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "[36mGET /static/js/clean-blog.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:15,542 INFO werkzeug Thread-24 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "[36mGET /static/js/clean-blog.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:15,542 INFO werkzeug Thread-23 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:15,543 INFO werkzeug Thread-22 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:15] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:38,270 INFO werkzeug Thread-25 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "POST /login HTTP/1.1" 200 -
+2023-03-18 21:59:38,482 INFO werkzeug Thread-26 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "[36mGET /static/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2023-03-18 21:59:38,507 INFO werkzeug Thread-27 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "[36mGET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1[0m" 304 -
+2023-03-18 21:59:38,514 INFO werkzeug Thread-28 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:38,520 INFO werkzeug Thread-30 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "[36mGET /static/css/clean-blog.min.css HTTP/1.1[0m" 304 -
+2023-03-18 21:59:38,523 INFO werkzeug Thread-29 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:38,525 INFO werkzeug Thread-31 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "[36mGET /static/js/clean-blog.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:38,641 INFO werkzeug Thread-32 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:38,649 INFO werkzeug Thread-33 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "[36mGET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2023-03-18 21:59:38,658 INFO werkzeug Thread-34 (process_request_thread) : 127.0.0.1 - - [18/Mar/2023 21:59:38] "[36mGET /static/js/clean-blog.min.js HTTP/1.1[0m" 304 -
