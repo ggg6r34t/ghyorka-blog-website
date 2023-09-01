@@ -14,7 +14,7 @@ Before you begin, ensure you have:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/blog-website.git
+   git clone https://github.com/ggg6r34t/ghyorka-blog-website.git
    cd blog-website
    ```
 
@@ -67,7 +67,7 @@ Access the application at `http://localhost:5000`.
 
 ## Deployment
 
-Our Blog Website is deployed and accessible at [https://ghyorkas-blog-website.onrender.com](https://ghyorkas-blog-website.onrender.com).
+Our Blog Website is deployed and accessible at [Blog Website Live Demo](https://ghyorkas-blog-website.onrender.com).
 
 ## Contributing
 
