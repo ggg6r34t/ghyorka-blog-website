@@ -71,7 +71,7 @@ Our Blog Website is deployed and accessible at [https://ghyorkas-blog-website.on
 
 ## Contributing
 
-To contribute, open issues or submit pull requests on GitHub: [https://github.com/your-username/blog-website](https://github.com/ggg6r34t/ghyorka-blog-website)
+To contribute, open issues or submit pull requests on GitHub: [Click here](https://github.com/ggg6r34t/ghyorka-blog-website)
 
 ## License
 
